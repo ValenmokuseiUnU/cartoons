@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+h1
+{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+h3{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Lobster', cursive;
+}
+
+h2{
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Patrick Hand', cursive;
+}
+.caja1{
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    margin: 20px;
+    padding: 30px;
+    border: 2px rgb(216, 134, 152) solid;
+    background-image: url(/images/pantera.jpg);
+    background-size: 395px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.caja2{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(155, 40, 59);
+    margin: 20px;
+    padding: 30px;
+    border: 2px rgb(0, 0, 0) solid;
+    background-image: url(/images/bob.jpg);
+    background-size: 390px;
+    background-repeat: no-repeat;
+    background-position:left;
+}
